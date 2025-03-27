@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"O_alien_door","order":39,"path":"objects/O_alien_door/O_alien_door.yy",},
     {"name":"O_barreel","order":35,"path":"objects/O_barreel/O_barreel.yy",},
     {"name":"O_bed_verso","order":16,"path":"objects/O_bed_verso/O_bed_verso.yy",},
     {"name":"O_ben","order":15,"path":"objects/O_ben/O_ben.yy",},
@@ -18,6 +19,8 @@
     {"name":"O_cryogenisation","order":2,"path":"objects/O_cryogenisation/O_cryogenisation.yy",},
     {"name":"O_disjoncteur","order":7,"path":"objects/O_disjoncteur/O_disjoncteur.yy",},
     {"name":"O_flaque","order":17,"path":"objects/O_flaque/O_flaque.yy",},
+    {"name":"O_fusee","order":38,"path":"objects/O_fusee/O_fusee.yy",},
+    {"name":"O_indice","order":37,"path":"objects/O_indice/O_indice.yy",},
     {"name":"O_light","order":34,"path":"objects/O_light/O_light.yy",},
     {"name":"O_mur_001","order":4,"path":"objects/O_mur_001/O_mur_001.yy",},
     {"name":"O_mur_002","order":8,"path":"objects/O_mur_002/O_mur_002.yy",},
@@ -76,6 +79,8 @@
     {"name":"Sprite48","order":42,"path":"sprites/Sprite48/Sprite48.yy",},
     {"name":"Sprite49","order":43,"path":"sprites/Sprite49/Sprite49.yy",},
     {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite50","order":44,"path":"sprites/Sprite50/Sprite50.yy",},
+    {"name":"Sprite51","order":45,"path":"sprites/Sprite51/Sprite51.yy",},
     {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"Sprite9_2","order":9,"path":"sprites/Sprite9_2/Sprite9_2.yy",},
