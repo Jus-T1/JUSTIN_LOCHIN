@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object48",
-  "eventList":[],
+  "%Name":"O_Monster",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object48",
+  "name":"O_Monster",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite36",
+    "path":"sprites/Sprite36/Sprite36.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
