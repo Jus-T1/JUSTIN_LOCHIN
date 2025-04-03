@@ -2,10 +2,10 @@
 /// @DnDVersion : 1
 /// @DnDHash : 42A111F2
 /// @DnDInput : 2
-/// @DnDArgument : "expr" "-0.5"
+/// @DnDArgument : "expr" "-0.6"
 /// @DnDArgument : "var" "dirX"
 /// @DnDArgument : "var_1" "dirY"
-dirX = -0.5;
+dirX = -0.6;
 dirY = 0;
 
 /// @DnDAction : YoYo Games.Instances.Set_Instance_Var

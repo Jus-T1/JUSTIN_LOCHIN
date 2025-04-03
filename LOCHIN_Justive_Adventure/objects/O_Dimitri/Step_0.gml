@@ -28,12 +28,13 @@ if( global.player_locked == false){	/// @DnDAction : YoYo Games.Collisions.If_
 			/// @DnDArgument : "expr" "dirX*32"
 			/// @DnDArgument : "expr_1" "dirY*32"
 			/// @DnDArgument : "expr_2" "true"
+			/// @DnDArgument : "expr_relative_2" "1"
 			/// @DnDArgument : "var" "targetX"
 			/// @DnDArgument : "var_1" "targetY"
 			/// @DnDArgument : "var_2" "isMoving"
 			targetX = dirX*32;
 			targetY = dirY*32;
-			isMoving = true;
+			isMoving += true;
 		
 			/// @DnDAction : YoYo Games.Instances.Set_Alarm
 			/// @DnDVersion : 1
