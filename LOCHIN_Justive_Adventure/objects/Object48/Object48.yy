@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_collison_light_1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Dimitri","path":"objects/O_Dimitri/O_Dimitri.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object48",
+  "eventList":[],
   "managed":true,
-  "name":"O_collison_light_1",
+  "name":"Object48",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_MinimapObject",
-    "path":"sprites/S_MinimapObject/S_MinimapObject.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

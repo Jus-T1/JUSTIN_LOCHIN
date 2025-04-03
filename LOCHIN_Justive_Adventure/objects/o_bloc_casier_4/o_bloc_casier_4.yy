@@ -1,11 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_Monster",
+  "%Name":"o_bloc_casier_4",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Monster",
+  "name":"o_bloc_casier_4",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite36",
-    "path":"sprites/Sprite36/Sprite36.yy",
+    "name":"Sprite33",
+    "path":"sprites/Sprite33/Sprite33.yy",
   },
   "spriteMaskId":null,
   "visible":true,
