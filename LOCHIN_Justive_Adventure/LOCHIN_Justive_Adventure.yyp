@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"LOCHIN_Justive_Adventure",
   "resources":[
@@ -38,6 +38,7 @@
     {"id":{"name":"O_alien_door","path":"objects/O_alien_door/O_alien_door.yy",},},
     {"id":{"name":"O_armoir","path":"objects/O_armoir/O_armoir.yy",},},
     {"id":{"name":"O_barreel","path":"objects/O_barreel/O_barreel.yy",},},
+    {"id":{"name":"O_bed_2","path":"objects/O_bed_2/O_bed_2.yy",},},
     {"id":{"name":"O_bed_verso","path":"objects/O_bed_verso/O_bed_verso.yy",},},
     {"id":{"name":"O_ben","path":"objects/O_ben/O_ben.yy",},},
     {"id":{"name":"o_bloc_1","path":"objects/o_bloc_1/o_bloc_1.yy",},},
@@ -87,6 +88,7 @@
     {"id":{"name":"O_robinet","path":"objects/O_robinet/O_robinet.yy",},},
     {"id":{"name":"O_shower","path":"objects/O_shower/O_shower.yy",},},
     {"id":{"name":"O_Sol","path":"objects/O_Sol/O_Sol.yy",},},
+    {"id":{"name":"O_tablo","path":"objects/O_tablo/O_tablo.yy",},},
     {"id":{"name":"O_tablueadebord","path":"objects/O_tablueadebord/O_tablueadebord.yy",},},
     {"id":{"name":"O_toilet","path":"objects/O_toilet/O_toilet.yy",},},
     {"id":{"name":"O_trap","path":"objects/O_trap/O_trap.yy",},},
@@ -108,6 +110,7 @@
     {"id":{"name":"S_Collision","path":"sprites/S_Collision/S_Collision.yy",},},
     {"id":{"name":"S_MinimapObject","path":"sprites/S_MinimapObject/S_MinimapObject.yy",},},
     {"id":{"name":"S_Sprite_mur","path":"sprites/S_Sprite_mur/S_Sprite_mur.yy",},},
+    {"id":{"name":"S_tablo","path":"sprites/S_tablo/S_tablo.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
