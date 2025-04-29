@@ -1,12 +1,15 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4F4CC40F
-/// @DnDInput : 2
+/// @DnDInput : 3
 /// @DnDArgument : "expr_1" "0.6"
+/// @DnDArgument : "expr_2" "4"
 /// @DnDArgument : "var" "dirX"
 /// @DnDArgument : "var_1" "dirY"
+/// @DnDArgument : "var_2" "LastDirection"
 dirX = 0;
 dirY = 0.6;
+LastDirection = 4;
 
 /// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 /// @DnDVersion : 1

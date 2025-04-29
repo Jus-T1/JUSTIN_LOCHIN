@@ -10,8 +10,8 @@ script_execute(Scr_CreateMinimapObjectSprite, self, Sprite1);
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 7CD6053F
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)hp = 100; // Assure-toi que les PV sont bien initialisés$(13_10)damage_timer = 0; // Initialise le timer de dégâts"
+/// @DnDHash : 15EE7A3D
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)hp = 100; $(13_10)damage_timer = 0; // Initialise le timer de dégâts"
 /// @description Execute Code
-hp = 100; // Assure-toi que les PV sont bien initialisés
+hp = 100; 
 damage_timer = 0; // Initialise le timer de dégâts
