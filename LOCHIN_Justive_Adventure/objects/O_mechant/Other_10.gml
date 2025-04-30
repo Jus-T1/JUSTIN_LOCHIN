@@ -10,11 +10,13 @@ hp_mechant = hp_mechant-1;
 /// @DnDHash : 533DE588
 /// @DnDArgument : "var" "hp_mechant"
 /// @DnDArgument : "op" "3"
-if(hp_mechant <= 0){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+if(hp_mechant <= 0){	/// @DnDAction : YoYo Games.Instances.Change_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 416760AE
+	/// @DnDHash : 0DFB0112
 	/// @DnDParent : 533DE588
-	instance_destroy();}
+	/// @DnDArgument : "objind" "Object52"
+	/// @DnDSaveInfo : "objind" "Object52"
+	instance_change(Object52, true);}
 
 /// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
 /// @DnDVersion : 1

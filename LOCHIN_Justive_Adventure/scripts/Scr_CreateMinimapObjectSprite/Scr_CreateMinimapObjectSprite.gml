@@ -10,12 +10,14 @@ function Scr_CreateMinimapObjectSprite(parentObject, mySprite) {	/// @DnDActio
 	/// @DnDVersion : 1
 	/// @DnDHash : 0ED7C118
 	/// @DnDParent : 643F78AE
+	/// @DnDArgument : "xpos" "256"
+	/// @DnDArgument : "ypos" "256"
 	/// @DnDArgument : "var" "justCreatedObject"
 	/// @DnDArgument : "var_temp" "1"
 	/// @DnDArgument : "objectid" "O_MinimapObjectInGameSprite"
-	/// @DnDArgument : "layer" ""minimapsObject""
+	/// @DnDArgument : "layer" ""minilmap""
 	/// @DnDSaveInfo : "objectid" "O_MinimapObjectInGameSprite"
-	var justCreatedObject = instance_create_layer(0, 0, "minimapsObject", O_MinimapObjectInGameSprite);
+	var justCreatedObject = instance_create_layer(256, 256, "minilmap", O_MinimapObjectInGameSprite);
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
