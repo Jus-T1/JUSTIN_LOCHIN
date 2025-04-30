@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"LOCHIN_Justive_Adventure",
+  "%Name":"save just1",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,7 +32,7 @@
   "MetaData":{
     "IDEVersion":"2024.8.1.171",
   },
-  "name":"LOCHIN_Justive_Adventure",
+  "name":"save just1",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"O_alien_door","path":"objects/O_alien_door/O_alien_door.yy",},},
@@ -58,6 +58,7 @@
     {"id":{"name":"O_Chest","path":"objects/O_Chest/O_Chest.yy",},},
     {"id":{"name":"O_Collision_1","path":"objects/O_Collision_1/O_Collision_1.yy",},},
     {"id":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},},
+    {"id":{"name":"O_collsion_wall_destroy","path":"objects/O_collsion_wall_destroy/O_collsion_wall_destroy.yy",},},
     {"id":{"name":"O_corp","path":"objects/O_corp/O_corp.yy",},},
     {"id":{"name":"O_cryogenisation_001","path":"objects/O_cryogenisation_001/O_cryogenisation_001.yy",},},
     {"id":{"name":"O_cryogenisation","path":"objects/O_cryogenisation/O_cryogenisation.yy",},},
@@ -106,7 +107,6 @@
     {"id":{"name":"Object37","path":"objects/Object37/Object37.yy",},},
     {"id":{"name":"Object48","path":"objects/Object48/Object48.yy",},},
     {"id":{"name":"Object52","path":"objects/Object52/Object52.yy",},},
-    {"id":{"name":"Object72","path":"objects/Object72/Object72.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Dialogue","path":"scripts/Dialogue/Dialogue.yy",},},
     {"id":{"name":"Scr_CreateMinimapObject","path":"scripts/Scr_CreateMinimapObject/Scr_CreateMinimapObject.yy",},},
