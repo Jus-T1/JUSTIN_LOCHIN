@@ -1,3 +1,3 @@
-vitesse = 1.75;
+vitesse = 1.25;
 
 distance_activation = 300;
