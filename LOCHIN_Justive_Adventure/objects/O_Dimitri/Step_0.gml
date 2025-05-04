@@ -110,3 +110,30 @@ if( global.player_locked == false){	/// @DnDAction : YoYo Games.Collisions.If_
 					/// @DnDHash : 50ADCC86
 					/// @DnDParent : 3E65D622
 					speed = 0;}}}}}
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 2C27E6FB
+/// @DnDArgument : "code" "$(13_10)if (hp < hp_previous) {$(13_10)    hit_flash_timer = 10; $(13_10)}$(13_10)$(13_10)$(13_10)if (hit_flash_timer > 0) {$(13_10)    image_blend = c_red;$(13_10)    image_alpha = 0.3;$(13_10)    hit_flash_timer--;$(13_10)} else {$(13_10)    image_blend = c_white;$(13_10)    image_alpha = 1;$(13_10)}$(13_10)$(13_10)$(13_10)hp_previous = hp;$(13_10)$(13_10)$(13_10)if (hp <= 0) {$(13_10)    room_restart();$(13_10)}"
+
+if (hp < hp_previous) {
+    hit_flash_timer = 10; 
+}
+
+
+if (hit_flash_timer > 0) {
+    image_blend = c_red;
+    image_alpha = 0.3;
+    hit_flash_timer--;
+} else {
+    image_blend = c_white;
+    image_alpha = 1;
+}
+
+
+hp_previous = hp;
+
+
+if (hp <= 0) {
+    room_restart();
+}

@@ -16,9 +16,9 @@ if(global.showMap == true){	/// @DnDAction : YoYo Games.Drawing.Set_Color
 	/// @DnDVersion : 1
 	/// @DnDHash : 59359BCD
 	/// @DnDParent : 7336781A
-	/// @DnDArgument : "x1" "500"
-	/// @DnDArgument : "y1" "250"
-	/// @DnDArgument : "x2" "1500"
-	/// @DnDArgument : "y2" "850"
+	/// @DnDArgument : "x1" "200"
+	/// @DnDArgument : "y1" "000"
+	/// @DnDArgument : "x2" "1200"
+	/// @DnDArgument : "y2" "750"
 	/// @DnDArgument : "fill" "1"
-	draw_rectangle(500, 250, 1500, 850, 0);}
+	draw_rectangle(200, 000, 1200, 750, 0);}
